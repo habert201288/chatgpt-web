@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: '',
-      name: 'HABERT',
-      description: '这是一个关于测试的项目',
+      name: 'Zhong',
+      description: '此项目仅供内部测试',
     },
   }
 }
